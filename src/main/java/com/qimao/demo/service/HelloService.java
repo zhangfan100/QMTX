@@ -1,6 +1,6 @@
-package com.qimao.service;
+package com.qimao.demo.service;
 
-import com.qimao.domain.User;
+import com.qimao.demo.domain.User;
 
 /**
  * web-api

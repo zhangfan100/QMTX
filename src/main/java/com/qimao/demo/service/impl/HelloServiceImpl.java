@@ -1,8 +1,8 @@
-package com.qimao.service.impl;
+package com.qimao.demo.service.impl;
 
-import com.qimao.dao.HelloDao;
-import com.qimao.domain.User;
-import com.qimao.service.HelloService;
+import com.qimao.demo.dao.HelloDao;
+import com.qimao.demo.domain.User;
+import com.qimao.demo.service.HelloService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

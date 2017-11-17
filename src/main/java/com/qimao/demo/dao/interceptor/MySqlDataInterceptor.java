@@ -1,5 +1,6 @@
-package com.qimao.dao.Interceptor;
+package com.qimao.demo.dao.interceptor;
 
+import org.apache.ibatis.plugin.Intercepts;
 import com.qimao.utils.PageBean;
 import com.qimao.utils.ReflectUtil;
 import org.apache.ibatis.executor.parameter.ParameterHandler;

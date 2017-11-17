@@ -1,13 +1,9 @@
-package com.qimao.domain;
+package com.qimao.demo.domain;
 
 import java.io.Serializable;
 
 /**
- * web-api
  *
- * @author zhangfan
- * @date 2017/10/25 18:54
- * @function
  */
 public class User implements Serializable{
     private int id;

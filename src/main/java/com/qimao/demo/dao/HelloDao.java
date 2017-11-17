@@ -1,7 +1,7 @@
-package com.qimao.dao;
+package com.qimao.demo.dao;
 
 
-import com.qimao.domain.User;
+import com.qimao.demo.domain.User;
 import org.apache.ibatis.annotations.Mapper;
 
 @Mapper

@@ -1,4 +1,4 @@
-package com.qimao.config;
+package com.qimao.base.config;
 
 /**
  *

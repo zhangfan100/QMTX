@@ -1,7 +1,7 @@
-package com.qimao.controller;
+package com.qimao.demo.controller;
 
-import com.qimao.domain.User;
-import com.qimao.service.HelloService;
+import com.qimao.demo.domain.User;
+import com.qimao.demo.service.HelloService;
 import com.qimao.utils.QMConstants;
 import com.qimao.utils.QMUtils;
 import com.qimao.utils.ResponseData;

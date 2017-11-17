@@ -1,6 +1,6 @@
-package com.qimao.config;
+package com.qimao.base.config;
 
-import com.qimao.interceptor.PrivilegeInterceptor;
+import com.qimao.base.interceptor.PrivilegeInterceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.converter.ByteArrayHttpMessageConverter;
 import org.springframework.http.converter.HttpMessageConverter;

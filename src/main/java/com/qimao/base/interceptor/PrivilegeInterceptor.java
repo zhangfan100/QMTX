@@ -1,4 +1,4 @@
-package com.qimao.interceptor;
+package com.qimao.base.interceptor;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
